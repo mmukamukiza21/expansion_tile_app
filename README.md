@@ -114,8 +114,6 @@ I used other widgets such as `StatefulWidget, SwitchListTile, Card, Container, L
 
 ## Screenshot
 
-![Student Hub FAQ ExpansionTile Demo](expansion_tile_demo.jpg)
-
 [Click here to view the screenshot directly](expansion_tile_demo.jpg)
 
 ## Author
