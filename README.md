@@ -112,9 +112,11 @@ I used other widgets such as `StatefulWidget, SwitchListTile, Card, Container, L
 
 ## Screenshot
 
-The Student Hub FAQ application appears as shown below with its three property switches.
+## Screenshot
 
-Use the Student Hub to quickly create and edit questions.Quickly create and edit questions in the Student Hub.
+![Student Hub FAQ ExpansionTile Demo](expansion_tile_demo.jpg)
+
+[Click here to view the screenshot directly](expansion_tile_demo.jpg)
 
 ## Author
 
