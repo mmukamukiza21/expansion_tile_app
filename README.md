@@ -101,3 +101,6 @@ Milliam Mukamukiza
  Repository
 
 Look at the project on Github: https://github.com/mmukamukiza21/expansion_tile_app
+## Screenshot
+
+![Student Hub FAQ ExpansionTile Demo](expansion_tile_demo.png)
